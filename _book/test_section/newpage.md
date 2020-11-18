@@ -1,3 +1,0 @@
-# New page
-
-ahhadskgkgfhfghjdfsffgfsfffdk
