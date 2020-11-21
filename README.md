@@ -24,4 +24,12 @@ gulp publish
 
 ```
 
-make sure that you are in the main/master branch
+Make sure that you are in the main/master branch.
+
+Nota Bene: There is a time delay which can be quite a while > 5 minutes, sometimes 24 hours if there are a lot of changes for the site to update once you have run `gulp publish`.
+
+
+What I really want to do create a bash script that automates the indexing of the pages to the summary file.   
+
+Here is another great tutorial: https://medium.com/@richdayandnight/simple-tutorial-on-hosting-your-gitbook-documentation-on-github-pages-bonus-with-gitbook-editor-f27f60d5d408
+
